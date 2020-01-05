@@ -35,7 +35,7 @@ var config = {
         {
             id: 'slide-0',
             title: 'Display Title',
-            image: './path/to/image/source.png',
+            // image: './path/to/image/source.png',
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
             location: {
             },
@@ -45,7 +45,7 @@ var config = {
         {
             id: 'drive-slide-0',
             title: 'Second Title',
-            image: './path/to/image/source.png',
+            // image: './path/to/image/source.png',
             description: 'Copy these sections to add to your story.',
             location: {
                 // location information is from the drive route
@@ -56,7 +56,7 @@ var config = {
         {
             id: 'drive-slide-1',
             title: 'Second Title',
-            image: './path/to/image/source.png',
+            // image: './path/to/image/source.png',
             description: 'Copy these sections to add to your story.',
             location: {},
             onChapterEnter: [],
@@ -65,7 +65,7 @@ var config = {
         {
             id: 'drive-slide-2',
             title: 'Second Title',
-            image: './path/to/image/source.png',
+            // image: './path/to/image/source.png',
             description: 'Copy these sections to add to your story.',
             location: {},
             onChapterEnter: [],
@@ -74,7 +74,7 @@ var config = {
         {
             id: 'drive-slide-3',
             title: 'Second Title',
-            image: './path/to/image/source.png',
+            // image: './path/to/image/source.png',
             description: 'Copy these sections to add to your story.',
             location: {},
             onChapterEnter: [],
@@ -83,7 +83,7 @@ var config = {
         {
             id: 'drive-slide-4',
             title: 'Second Title',
-            image: './path/to/image/source.png',
+            // image: './path/to/image/source.png',
             description: 'Copy these sections to add to your story.',
             location: {},
             onChapterEnter: [],
@@ -104,7 +104,7 @@ var config = {
         {
             id: 'drive-slide-5',
             title: 'Second Title',
-            image: './path/to/image/source.png',
+            // image: './path/to/image/source.png',
             description: 'Copy these sections to add to your story.',
             location: {},
             onChapterEnter: [],
@@ -113,7 +113,7 @@ var config = {
         {
             id: 'drive-slide-6',
             title: 'Second Title',
-            image: './path/to/image/source.png',
+            // image: './path/to/image/source.png',
             description: 'Copy these sections to add to your story.',
             location: {},
             onChapterEnter: [],
@@ -122,7 +122,7 @@ var config = {
         {
             id: 'slide-2',
             title: 'Second Title',
-            image: './path/to/image/source.png',
+            // image: './path/to/image/source.png',
             description: 'Copy these sections to add to your story.',
             location: {},
             onChapterEnter: [],
