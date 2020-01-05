@@ -91,16 +91,16 @@ var config = {
         },
 
         // You can add a normal slide in the middle of the drive slides to take a break
-        {
-            id: 'slide-4',
-            title: 'Second Title',
-            image: './path/to/image/source.png',
-            description: 'Copy these sections to add to your story.',
-            location: {
-            },
-            onChapterEnter: [],
-            onChapterExit: []
-        },
+        // {
+        //     id: 'slide-4',
+        //     title: 'Second Title',
+        //     image: './path/to/image/source.png',
+        //     description: 'Copy these sections to add to your story.',
+        //     location: {
+        //     },
+        //     onChapterEnter: [],
+        //     onChapterExit: []
+        // },
         {
             id: 'drive-slide-5',
             title: 'Second Title',
