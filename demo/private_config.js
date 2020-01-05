@@ -20,9 +20,10 @@ var followPitch = 0;
 // you also need to add a running total to the end of each 'drive-slide', (ex. drive-slide-0, drive-slide-1, drive-slide-2, etc.)
 var config = {
     style: 'mapbox://styles/mapbox/light-v10',
-    // style: 'mapbox://styles/mapbox/satellite-v8',
-    // style: 'mapbox://styles/mapbox/outdoors-v10',
-    accessToken: 'YOUR_ACCESS_TOKEN',
+
+    // please use your own accessToken here
+    // included for demo purposes
+    accessToken: 'pk.eyJ1Ijoid2lsbGlhbWJlbmRhdmlzIiwiYSI6IlVrb3BGVzQifQ.jeHxDCnpXXvAXKfAFEYG-A',
     showMarkers: false,
     theme: 'light',
     alignment: 'left',
