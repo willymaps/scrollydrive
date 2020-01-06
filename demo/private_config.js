@@ -23,7 +23,7 @@ var config = {
 
     // please use your own accessToken here
     // included for demo purposes
-    accessToken: 'pk.eyJ1Ijoid2lsbGlhbWJlbmRhdmlzIiwiYSI6IlVrb3BGVzQifQ.jeHxDCnpXXvAXKfAFEYG-A',
+    accessToken: 'pk.eyJ1Ijoid2lsbGlhbWJlbmRhdmlzIiwiYSI6ImNrNTFwa3JrNjA2MHIzb3BnMjhnd2diZHUifQ.A3ZNdh0gI05-KGgPAZxIsQ',
     showMarkers: false,
     theme: 'light',
     alignment: 'left',
