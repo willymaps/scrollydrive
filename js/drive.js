@@ -66,6 +66,10 @@ function createLine() {
 }
 
 function changeCenter(index) {
+
+    // Set center to a subsample of the line, say every 10th or 25th
+    let subsampleIndex = 100;
+
     let currentJson = geojsonPoint.features[0].geometry.coordinates.slice(0,index);
     let center = geojsonPoint.features[0].geometry.coordinates[index];
     let centerX = center[0];
@@ -86,8 +90,11 @@ function changeCenter(index) {
 
     // if you want to follow the point...
     if (followPoint === true) {
-	    map.jumpTo({
-	        center: [centerX, centerY]
-	    });
+      if (index % subsampleIndex == 0) {
+        console.log("changeCenter(index) = ", index, center)
+        map.jumpTo({
+  	        center: [centerX, centerY]
+  	    });
+      }
     }
 }
